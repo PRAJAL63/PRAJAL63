@@ -27,7 +27,7 @@
 
 
 <h4>Exploring</h4>
-<img src="https://skillicons.dev/icons?i=nextjs,react,docker" />
+<img src="https://skillicons.dev/icons?i=nextjs,solidity,docker" />
 
 <hr />
 
