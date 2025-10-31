@@ -23,11 +23,11 @@
 
 <img align="right" height="250" src="assets/cover.svg" />
 <h4>Language and Tools I use</h4>
-<img src="https://skillicons.dev/icons?i=ts,nodejs,mysql,postman,vercel,nextjs,react,tailwind,css,figma" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,mysql,postman,vercel,nextjs,react,tailwind,css,figma" />
 
 
 <h4>Exploring</h4>
-<img src="https://skillicons.dev/icons?i=nextjs,solidity,docker" />
+<img src="https://skillicons.dev/icons?i=nextjs,reactnative,solidity,docker" />
 
 <hr />
 
